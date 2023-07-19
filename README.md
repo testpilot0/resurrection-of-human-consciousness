@@ -8,3 +8,5 @@ Text was generated as Gen AI variations on speculative and controversial essays 
 
 Vareous Gen AI LLMs have been used
 
+![Brain-and-Environment](https://github.com/testpilot0/resurrection-of-human-consciousness/assets/43688445/95abf99f-3279-4843-b509-f241ff8dafdb)
+![Brain-recovery](https://github.com/testpilot0/resurrection-of-human-consciousness/assets/43688445/1e467c98-928a-4a0e-bdf9-05c6e05236e7)
