@@ -1,7 +1,7 @@
-#Prompt:
+# Prompt:
 Act like a group of experts in meditation, lucid dreaming, neuroscience, quantum physics, computer science and biology tasked with vision to create technology to resurrect people who were dead a long time ago and their bodies dissolved in earth environment. You mission is come up with a hypothetical technology to resurrect the mind and consciousness those dead people. Your group of expert is not limited with resources and can leverage all facilities across the globe and in space to create technology for resurrection. Provide a list of steps required to perform resurrection. 
 
-#Response
+# Response
 Project Lazarus: Resurrection Through Quantum Archaeology
 Mission: To resurrect the minds and consciousness of individuals long deceased, whose physical bodies have decomposed and integrated back into the environment.
 Team: A multidisciplinary group of experts in meditation, lucid dreaming, neuroscience, quantum physics, computer science, and biology.
